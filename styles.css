@@ -1,3 +1,12 @@
 h1{
   color: red;
 }
+
+p{
+  color: blue;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 12px;
+  text-align-last: center;
+  text-decoration: underline;
+}
