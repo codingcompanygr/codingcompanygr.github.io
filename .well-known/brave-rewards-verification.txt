@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: codingcompanygr.github.io
+Token: 4387ad2328ded47323226d063da9bda6d60ebcb1699d1f3de1d068425003169f
